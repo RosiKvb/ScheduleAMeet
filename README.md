@@ -15,6 +15,9 @@ Here, in this code our bot helps our teachers to set a meet with their faculty m
 Senior lecturers,Junior lecturers.
 I simply used functions for different kinds of faculty they want to choose.
 
+# Block Diagram
+![block diagram](https://raw.githubusercontent.com/RosiKvb/ScheduleAMeet/main/Blank%20diagram.png)
+
 # Further On
 I will be taking details of respective faculty members i included and with the help of details(Contact number) i will
 send a notification to the faculty members that they have been appointed to a meet with a perticular sir at a perticular time.
